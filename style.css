@@ -1,0 +1,19 @@
+body.dark {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
+body.dark section,
+body.dark .card {
+  background-color: #1f1f1f !important;
+  color: white;
+}
+
+body.dark footer {
+  background-color: #000;
+}
+
+body.dark .form-control {
+  background-color: #2a2a2a;
+  color: white;
+}
